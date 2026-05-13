@@ -13,7 +13,7 @@
             <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="site-logo">
                 Cloud <span>11</span>
             </a>
-            <p>Artisan breads, pastries, and seasonal specials baked fresh daily in London, Ontario.</p>
+            <p>Artisan breads, pastries, and seasonal specials baked fresh daily in Bilaspur, India.</p>
         </div>
 
         <div class="footer-col">
@@ -36,8 +36,8 @@
             </ul>
             <h4 style="margin-top: 1.25rem;"><?php esc_html_e( 'Contact', 'cloud11-bakery' ); ?></h4>
             <ul>
-                <li><a href="tel:+1XXXXXXXXXX">+1 (XXX) XXX-XXXX</a></li>
-                <li><a href="mailto:hello@cloud11bakery.ca">hello@cloud11bakery.ca</a></li>
+                <li><a href="tel:+91XXXXXXXXXX">+91 (XXX) XXX-XXXX</a></li>
+                <li><a href="mailto:hello@cloud11bakery.in">hello@cloud11bakery.in</a></li>
             </ul>
         </div>
     </div>
