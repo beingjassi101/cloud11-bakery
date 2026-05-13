@@ -12,7 +12,7 @@ get_header();
     <div class="site-container">
         <h1>Baked Fresh.<br><span class="gold">Every Single Day.</span></h1>
         <p class="tagline">
-            Artisan breads, flaky pastries, and seasonal specials crafted with care at Cloud 11 Bakery — serving London, Ontario.
+            Artisan breads, flaky pastries, and seasonal specials crafted with care at Cloud 11 Bakery — serving Bilaspur, India.
         </p>
         <div class="hero-cta">
             <a href="<?php echo esc_url( get_permalink( get_page_by_path( 'menu' ) ) ); ?>" class="btn btn-primary">
@@ -76,7 +76,7 @@ get_header();
                 <div class="menu-category">
                     <h3>Seasonal Berry Tart</h3>
                     <p style="color: var(--c11-text-muted); font-size: 0.92rem;">
-                        Vanilla custard, Ontario-grown berries, buttery shortcrust shell.
+                        Vanilla custard, Organic-grown berries, buttery shortcrust shell.
                     </p>
                 </div>
             <?php endif; ?>
@@ -93,12 +93,12 @@ get_header();
                 <h2 class="section-title">Small Batch. Big Heart.</h2>
                 <div class="about-text">
                     <p>
-                        Cloud 11 started with a simple idea — what if your neighbourhood bakery cared about every loaf
+                        Cloud 11 started with a simple idea: what if your neighbourhood bakery cared about every loaf
                         as much as you do? We source local ingredients, bake in small batches, and never cut corners.
                     </p>
                     <p>
                         Whether you're grabbing a morning croissant or ordering a custom cake for your celebration,
-                        we're here to make your day a little better.
+                        We're here to make your day a little better.
                     </p>
                 </div>
                 <a href="<?php echo esc_url( get_permalink( get_page_by_path( 'about' ) ) ); ?>" class="btn btn-outline" style="margin-top: 1.5rem;">
@@ -125,7 +125,7 @@ get_header();
         <div class="section-label">Catering</div>
         <h2 class="section-title">Planning an Event?</h2>
         <p class="section-desc" style="margin-left: auto; margin-right: auto;">
-            From office breakfasts to wedding dessert tables — we'd love to be part of your next gathering.
+            From office breakfasts to wedding dessert tables, we'd love to be part of your next gathering.
         </p>
         <a href="<?php echo esc_url( get_permalink( get_page_by_path( 'catering' ) ) ); ?>" class="btn btn-primary">
             Request a Quote
