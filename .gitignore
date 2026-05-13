@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if using build tools later)
+node_modules/
+package-lock.json
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# Logs
+*.log
+debug.log
+
+# Environment
+.env
+.env.local
